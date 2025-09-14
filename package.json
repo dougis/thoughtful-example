@@ -1,0 +1,12 @@
+{
+    "name": "package-sorting",
+    "version": "1.0.0",
+    "description": "Package sorting system for robotic automation",
+    "main": "packageSorting.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^30.1.3"
+    }
+}
